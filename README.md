@@ -74,7 +74,7 @@ pip install tkinter  # Geralmente já vem com Python
 
 1. **Clone o repositório**
 ```bash
-git clone https://github.com/seu-usuario/discord-flame-messenger.git
+git clone https://github.com/FlameTvz/Discord-Flame-Messenger-Pro.git
 cd discord-flame-messenger
 ```
 
