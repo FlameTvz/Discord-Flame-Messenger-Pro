@@ -4,16 +4,16 @@ Uma solução moderna e intuitiva para automação de mensagens no Discord com i
 
 ## 📋 Índice
 
-- [Sobre o Projeto](#sobre-o-projeto)
-- [Características](#características)
-- [Pré-requisitos](#pré-requisitos)
-- [Instalação](#instalação)
-- [Como Usar](#como-usar)
-- [Configuração](#configuração)
-- [Estrutura do Projeto](#estrutura-do-projeto)
-- [Tecnologias Utilizadas](#tecnologias-utilizadas)
-- [Contribuindo](#contribuindo)
-- [Licença](#licença)
+- [Sobre o Projeto](#-sobre-o-projeto)
+- [Características](#-características)
+- [Pré-requisitos](#-pré-requisitos)
+- [Instalação](#-instalação)
+- [Como Usar](#-como-usar)
+- [Configuração](#-configuração)
+- [Estrutura do Projeto](#-estrutura-do-projeto)
+- [Tecnologias Utilizadas](#-tecnologias-utilizadas)
+- [Contribuindo](#-contribuindo)
+- [Licença](#-licença)
 
 ## 🎯 Sobre o Projeto
 
